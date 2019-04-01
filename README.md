@@ -1,2 +1,2 @@
-# NLPAnalysis
-Playground for learning different NLP sub-fields
+# SentimentAnalysis
+Playground for learning different sentiment analysis methods
